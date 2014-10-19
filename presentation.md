@@ -32,7 +32,7 @@ Sportl- An app that connects people who want to excercise with groups or individ
 
 2.<a href="UI/">UI</a>
 
-3.<a href="/">Prototype</a>
+3.<a href="/sportl-landing/">Prototype</a>
 
 4.<a href="about/">Roadmap</a>
 
