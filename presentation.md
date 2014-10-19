@@ -31,3 +31,7 @@ title: Presentation
 <hr>	
 <h2>What you would do next if you could pick the project up again</h2>
 1.Fix all the things
+
+2.Replace Checkboxes with buttons
+
+3.More research into the Profile system to determine if it would be used.
