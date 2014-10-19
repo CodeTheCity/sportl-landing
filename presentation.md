@@ -2,7 +2,7 @@
 layout: page
 title: Presentation
 ---
-<img src="public/img/logo.png" width="300px"/>
+<img src="/sportl-landing/public/img/logo.png" width="300px"/>
 <h2>Team</h2>
 
 1.Mark Innes

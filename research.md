@@ -4,19 +4,19 @@ title: Research
 ---
 
 <div class="image-responsive">
-    <img src="public/img/7.jpg" />
+    <img src="/sportl-landing/public/img/7.jpg" />
 </div>
 <div class="image-responsive">
-    <img src="public/img/8.jpg" />
+    <img src="/sportl-landing/public/img/8.jpg" />
 </div>
 <div class="image-responsive">
-    <img src="public/img/9.jpg" />
+    <img src="/sportl-landing/public/img/9.jpg" />
 </div>
 <div class="image-responsive">
-    <img src="public/img/10.jpg" />
+    <img src="/sportl-landing/public/img/10.jpg" />
 </div>
 <div class="image-responsive">
-    <img src="public/img/11.jpg" />
+    <img src="/sportl-landing/public/img/11.jpg" />
 </div>
 
 <p class="message">
