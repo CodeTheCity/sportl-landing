@@ -28,13 +28,13 @@ Sportl- An app that connects people who want to excercise with groups or individ
 <hr>
 <h2>What you did</h2>
 
-1.<a href="research/">Research</a>
+1.<a href="/sportl-landing/research/">Research</a>
 
-2.<a href="UI/">UI</a>
+2.<a href="/sportl-landing/UI/">UI</a>
 
 3.<a href="/sportl-landing/">Prototype</a>
 
-4.<a href="about/">Roadmap</a>
+4.<a href="/sportl-landing/about/">Roadmap</a>
 
 <hr>
 <h2>What you learned</h2>
