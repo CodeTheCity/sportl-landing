@@ -3,7 +3,25 @@ layout: page
 title: Presentation
 ---
 <img src="{{ site.baseurl }}public/img/logo.png" width="300px"/>
+<h2>Team</h2>
 
+1.Mark Innes
+
+2.Peter Travers
+
+3.Heather Doran
+
+4.Amy Hayward
+
+5.Callum Hopkins
+
+6.Sebastien Charbonnier
+
+7.Lee
+<hr>
+<h2>Challenge</h2>
+Sportl- An app that connects people who want to excercise with groups or individuals who enjoy the same sport.
+<hr>
 <h2>Where you started</h2>
 
 1.Attempting to help people to find other people to play sport with
