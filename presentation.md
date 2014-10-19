@@ -2,6 +2,7 @@
 layout: page
 title: Presentation
 ---
+<img src="{{ site.baseurl }}public/img/logo.png" width="300px"/>
 
 <h2>Where you started</h2>
 
