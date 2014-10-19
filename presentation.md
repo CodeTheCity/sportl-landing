@@ -2,7 +2,7 @@
 layout: page
 title: Presentation
 ---
-<img src="{{ site.baseurl }}public/img/logo.png" width="300px"/>
+<img src="public/img/logo.png" width="300px"/>
 <h2>Team</h2>
 
 1.Mark Innes
@@ -28,13 +28,13 @@ Sportl- An app that connects people who want to excercise with groups or individ
 <hr>
 <h2>What you did</h2>
 
-1.<a href="/research/">Research</a>
+1.<a href="research/">Research</a>
 
-2.<a href="/UI/">UI</a>
+2.<a href="UI/">UI</a>
 
 3.<a href="/">Prototype</a>
 
-4.<a href="/about/">Roadmap</a>
+4.<a href="about/">Roadmap</a>
 
 <hr>
 <h2>What you learned</h2>

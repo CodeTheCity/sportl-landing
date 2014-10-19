@@ -17,7 +17,7 @@ sportalApp.config(function($interpolateProvider) {
 sportalApp.factory('sportService', function($http, $q) {
     var sportService = {
         async: function() {
-            var promise = $http.get('/public/js/opportunities.json').then(function(response) {
+            var promise = $http.get('public/js/opportunities.json').then(function(response) {
                 return response.data;
             });
             return promise;
