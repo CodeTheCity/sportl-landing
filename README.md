@@ -1,9 +1,12 @@
 # Sportl
 
-TEAM - Mark Innes
+<b>TEAM</b> - Mark Innes, Peter Travers, Heather Doran, Amy Hayward, Callum Hopkins, Sebastien Charbonnier, Lee
 
-CHALLENGE - Sportl
+<b>CHALLENGE</b> - <b>Sportl</b>- An app that connects people who want to excercise with groups or individuals who enjoy
+the same sport.
 
-RESULTS - 
+<b>RESULTS</b> - We have designs and the basic underpinnings for a web app.
 
-LINKS -
+
+<b>LINKS</b> - 
+<a href= https://github.com/caleuanhopkins/sportl/>GitHub for our app</a>
