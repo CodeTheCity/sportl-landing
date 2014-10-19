@@ -25,7 +25,7 @@ module.exports = function(grunt) {
         uglify: {
             build: {
                 src: 'public/js/build/production.js',
-                dest: 'public/js/build/production.min.js'
+                dest: 'production.min.js'
             }
         },
         sass: {
@@ -34,7 +34,7 @@ module.exports = function(grunt) {
                     style: 'compressed'
                 },
                 files: {
-                    'public/css/global.css': 'public/css/global.scss'
+                    'global.css': 'public/css/global.scss'
                 }
             }
         },
